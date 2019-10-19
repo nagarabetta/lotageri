@@ -1,9 +1,16 @@
 {
-  "photos": [
-	"Shree lakkammadevi jathra mahotsava lotageri 2019",
-        "Prokabaddi lotageri hudugara balaga 2019",
-        Shree gajanana yovakara sangh lotageri 2019",
-	"Shree devi purana mangalothsava Lotageri on 2019"
-
-	]
-}
+  "items":[
+   {
+     "name": "Shree lakkammadevi jathra mahotsava lotageri 2019"
+  },
+  {
+     "name": "Prokabaddi lotageri hudugara balaga 2019"
+   },
+   {
+     "name": "Shree gajanana yovakara sangh lotageri 2019"
+   },
+   {
+     "name": "Shree devi purana mangalothsava Lotageri on 2019"
+   }
+   
+]}
